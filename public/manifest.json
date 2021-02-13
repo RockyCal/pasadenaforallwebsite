@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "P4A web",
+  "name": "Pasadena for All website",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,19 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "p4a_dot_logo.jpg",
+      "type": "image/jpg",
+      "sizes": "828x828"
     },
     {
-      "src": "logo512.png",
+      "src": "p4a_logo.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "2400x451"
+    },
+    {
+      "src": "p4a_logo1.png",
+      "type": "image/png",
+      "sizes": "2400x451"
     }
   ],
   "start_url": ".",
